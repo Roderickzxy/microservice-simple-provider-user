@@ -3,6 +3,9 @@ package com.rode.cloud.microservicesimpleprovideruser;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Test application
+ */
 @SpringBootApplication
 public class MicroserviceSimpleProviderUserApplication {
 
