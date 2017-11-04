@@ -1,4 +1,4 @@
-package com.rode.cloud.microservicesimpleprovideruser;
+package com.rode.cloud.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
