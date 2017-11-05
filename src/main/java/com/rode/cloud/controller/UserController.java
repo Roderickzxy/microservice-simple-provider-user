@@ -13,7 +13,7 @@ public class UserController {
     private UserRepository userRepository;
 
     @GetMapping("/user/{id}")
-    public User getUser(@PathVariable("userid")Long id){
+    public User getUser(@PathVariable("id")Long id){
         return this.userRepository.findOne(id);
     }
 }
